@@ -1,0 +1,6 @@
+rootProject.name = 'microservices'
+
+include 'discovery-server'
+include 'person'
+include 'location'
+include 'weather'
